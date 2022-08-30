@@ -61,7 +61,7 @@
     "EXPLORER_URL": {
       "description": "Blockchain explorer URL",
       "required": false,
-      "value": "https://bscscan.com/address/0x0000000000000000000000000000000000000000"
+      "value": "https://bscscan.com/token/0xF0E162199786722Eb8b9Ae6Fd4Cd4A525e054E0A"
     },     
     "ADMIN_USERNAME": {
       "description": "Bot owner's telegram username. Example: johndoe",
